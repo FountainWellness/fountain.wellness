@@ -1,2 +1,0 @@
-# fountain.wellness
-Fountain Wellness
